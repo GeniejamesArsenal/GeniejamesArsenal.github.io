@@ -5,7 +5,6 @@
 .hero{
     height: 100vh;
     width: 100%;
-    background-color: #013174;
     background-image: url(/img/background.png);
     background-size: cover;
     background-repeat: no-repeat;
